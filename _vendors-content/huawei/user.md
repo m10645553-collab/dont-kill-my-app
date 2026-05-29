@@ -1,4 +1,4 @@
----
+---৫০
 manufacturer:
     - huawei
 
